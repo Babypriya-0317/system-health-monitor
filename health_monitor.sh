@@ -4,7 +4,7 @@
 LOG_FILE="/home/babypriyaa/health_monitor/logs/health.log"
 DATE=$(date +"%Y-%m-%d_%H-%M-%S")
 
-# ---- THRESHOLDS ---CPU_USAGE=$(top -bn1 | grep "Cpu(s)" | awk '{print $2}' | cut -d'.' -f1)-
+# ---- THRESHOLDS ----
 CPU_LIMIT=80
 RAM_LIMIT=80
 DISK_LIMIT=80
