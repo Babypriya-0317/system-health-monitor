@@ -1,0 +1,13 @@
+===============================
+Date: 2026-06-14_09-34-00
+CPU Usage  : 1%
+RAM Usage  : 29%
+Disk Usage : 1%
+Network    : RX: 0 MB | TX: 0 MB
+Top 5 Processes:
+/snap/snapd/current/usr/lib/snapd/snapd 0.1   1.1
+/usr/lib/systemd/systemd-udevd 0.0   0.3
+/usr/libexec/wsl-pro-service 0.0   0.4
+snapfuse   0.0   0.3
+Status: System Checked Successfully
+===============================
