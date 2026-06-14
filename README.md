@@ -8,6 +8,9 @@ CPU, RAM, and Disk usage with automated alerts and logging.
 - Real time CPU usage monitoring
 - RAM usage monitoring
 - Disk usage monitoring
+- Network usage monitoring (RX/TX)
+- Top 5 processes by CPU usage
+- Color coded terminal output
 - Alert system when usage crosses 80% threshold
 - Activity logging with timestamp
 - Automated scheduling using cron
@@ -22,7 +25,10 @@ CPU, RAM, and Disk usage with automated alerts and logging.
 health_monitor/
 ├── health_monitor.sh   # Main monitoring script
 ├── README.md           # Project documentation
+├── sample_logs/        # Sample log output
+├── screenshots/        # Project screenshots
 └── logs/               # Log files
+
 
 ## How to Run
 # Clone the repo
