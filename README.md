@@ -59,7 +59,7 @@ Status: System Checked Successfully
 ![Top Processes](screenshots/top_processes.png)
 
 ### Log File Output
-![Log Output](screenshots/log1_output.png)
+![Log Output](screenshots/log_output1.png)
 
 ### Sample Log
-![Sample Log](screenshots/sample1_log.png)
+![Sample Log](screenshots/sample_log1.png)
