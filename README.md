@@ -49,3 +49,17 @@ RAM Usage  : 29%
 Disk Usage : 1%
 Status: System Checked Successfully
 ===============================
+
+## Screenshots
+
+### System Health Report
+![Health Report](screenshots/health_reports.png)
+
+### Top 5 Processes
+![Top Processes](screenshots/top_processes.png)
+
+### Log File Output
+![Log Output](screenshots/log1_output.png)
+
+### Sample Log
+![Sample Log](screenshots/sample1_log.png)
